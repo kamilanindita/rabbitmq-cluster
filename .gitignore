@@ -1,0 +1,4 @@
+rabbitmq/data*
+rabbitmq/log*
+.env.prod
+node_modules
